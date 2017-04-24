@@ -1,0 +1,26 @@
+{
+  "name": "platzigram-db",
+  "version": "1.0.0",
+  "description": "Platzigram Database Client",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielnz/platzigram-db.git"
+  },
+  "author": "Gabriel Nunez <gabriel.nzn@gmail.com> (https://github.com/gabrielnz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabrielnz/platzigram-db/issues"
+  },
+  "homepage": "https://github.com/Gabrielnz/platzigram-db#readme",
+  "devDependencies": {
+    "babel-eslint": "7.2.3",
+    "standard": "10.0.2"
+  }
+}
